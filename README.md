@@ -1,4 +1,3 @@
-# Robert Lasarzik
 Welcome to my webpage. I am a PostDoc at the WIAS Berlin. 
 
 My research mainly focuses on the theory of generalized solutions to the Ericksen--Leslie model describing the flow of liquid crystals. 
