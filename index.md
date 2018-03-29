@@ -23,17 +23,17 @@ My research mainly focuses on the theory of generalized solutions to the Erickse
 - October 2008 -- September 2011 Bachelor of science in Technomathematics at the TU Berlin
 
 ## Teaching 
-term | course
----- | ---------
+term           | course
+---------------|:---------
 WiSe 2016/2017 |  Differentialgleichungen I (Tutorium), Differentialgleichungen IIB (Übung)
-SoSe 2016 |  Differentialgleichungen für Ingenieure (Tutorium)
+SoSe 2016      |  Differentialgleichungen für Ingenieure (Tutorium)
 WiSe 2015/2016 | Differentialgleichungen I (Übung)
-SoSe 2015 | Analysis II (Tutorium)
+SoSe 2015      | Analysis II (Tutorium)
 WiSe 2014/2015 | Differentialgleichungen I (Übung), Differentialgleichungen I (Tutorium)
-SoSe 2014 | Analysis III für Ingenieure (Tutorium)
+SoSe 2014      | Analysis III für Ingenieure (Tutorium)
 WiSe 2013/2014 |  Differentialgleichungen für Ingenieure (Tutorium)
-SoSe 2014 | Mathematik für Physiker IV (Tutorium)
-SoSe 2011 | Nichtineare Optimierung (Übung)
+SoSe 2014      | Mathematik für Physiker IV (Tutorium)
+SoSe 2011      | Nichtineare Optimierung (Übung)
 WiSe 2010/2011 | Lineare Algebra für Ingenieure (Tutorium)
 
 ## Contact 
