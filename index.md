@@ -1,6 +1,5 @@
 ---
 title: Robert Lasarzik
-layout: post
 ---
 
 # Welcome 
