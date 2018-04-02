@@ -24,17 +24,17 @@ My research mainly focuses on the theory of generalized solutions to the Erickse
 
 ## Teaching 
 
-|term           | course.                                                                   |
-|WiSe 2016/2017 |  Differentialgleichungen I (Tutorium), Differentialgleichungen IIB (Übung)|
-|SoSe 2016      |  Differentialgleichungen für Ingenieure (Tutorium)                        |
-|WiSe 2015/2016 | Differentialgleichungen I (Übung)                                         |
-|SoSe 2015      | Analysis II (Tutorium)                                                    |
-|WiSe 2014/2015 | Differentialgleichungen I (Übung), Differentialgleichungen I (Tutorium)   |
-|SoSe 2014      | Analysis III für Ingenieure (Tutorium)                                    |
-|WiSe 2013/2014 |  Differentialgleichungen für Ingenieure (Tutorium)                        |
-|SoSe 2014      | Mathematik für Physiker IV (Tutorium)                                     | 
-|SoSe 2011      | Nichtineare Optimierung (Übung)                                           |
-|WiSe 2010/2011 | Lineare Algebra für Ingenieure (Tutorium)                                 |
+|term           | course                                                                    |
+|WiSe 2016/2017 |  differential equations I (tutorial), differential equations IIB (exercise)|
+|SoSe 2016      |  differential equations for engineers (Tutorium)                        |
+|WiSe 2015/2016 | differential equations I (exercise)                                         |
+|SoSe 2015      | analysis II (tutorial)                                                    |
+|WiSe 2014/2015 | differential equations I (exercise), differential equations I (tutorial)   |
+|SoSe 2014      | analysis III for engineers (tutorial)                                    |
+|WiSe 2013/2014 |  differential equations for engineers (tutorial)                        |
+|SoSe 2014      | mathematics for physicists IV (tutorial)                                     | 
+|SoSe 2011      | nonlinear optimization (exercise)                                           |
+|WiSe 2010/2011 | linear algebra for engineers (tutorial)                                 |
 
 ## Contact 
 lasarzik(at)wias-berlin.de
