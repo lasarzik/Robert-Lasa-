@@ -26,7 +26,7 @@ My research mainly focuses on the theory of generalized solutions to the Erickse
 
 |term           | course                                                                    |
 |WiSe 2016/2017 |  differential equations I (tutorial), differential equations IIB (exercise)|
-|SoSe 2016      |  differential equations for engineers (Tutorium)                        |
+|SoSe 2016      |  differential equations for engineers (tutorial)                        |
 |WiSe 2015/2016 | differential equations I (exercise)                                         |
 |SoSe 2015      | analysis II (tutorial)                                                    |
 |WiSe 2014/2015 | differential equations I (exercise), differential equations I (tutorial)   |
